@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/ukatech/web-ghost-terminal/issues"
   },
-  "homepage": "https://github.com/ukatech/web-ghost-terminal#readme"
+  "homepage": "https://github.com/ukatech/web-ghost-terminal#readme",
+  "devDependencies": {
+    "jsstp": "^3.1.2",
+    "xterm": "^5.3.0"
+  }
 }
